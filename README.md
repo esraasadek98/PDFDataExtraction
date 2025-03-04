@@ -1,6 +1,7 @@
 # PDF Data Extraction
 This UiPath project is designed to automate the extraction of data from PDF files and save the extracted information into text files
-Use Cases:
+
+# Use Cases:
 1.Invoice Processing: Automates the extraction of invoice data from PDFs for further processing or analysis.
 
 2.PDF Digitization: Converts scanned documents into editable text files.
